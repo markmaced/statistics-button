@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este plugin WordPress fornece um shortcode chamado `[statistics_button]` que permite a criação de botões dinâmicos com texto e link de redirecionamento personalizados.
+Este plugin WordPress fornece um shortcode chamado `[statistics_button]` que permite a criação de botões dinâmicos com texto e link de redirecionamento personalizados. Além disso, ao ativar é criado uma tabela chamada statistics_data para armazenamento dos registros.
 
 ## Como Usar
 
