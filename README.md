@@ -1,4 +1,4 @@
-# Statistics Button Shortcode
+# Statistics Button
 
 ## Descrição
 
